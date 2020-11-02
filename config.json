@@ -1,0 +1,8 @@
+{
+    "languages": "Python3,C++,Java",
+    "select": "1,1,0",
+    "problem_path": "./problem",
+    "save_path": ".",
+    "login_platform": "common, facebook, github",
+    "login_select": 1
+}
